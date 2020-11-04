@@ -1,1 +1,1 @@
-# 🏠 Working from home.
+🏠 Working from home.
