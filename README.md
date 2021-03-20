@@ -14,8 +14,7 @@
 <img alt="Docker" width="26px" align="left" src="https://img.icons8.com/color/96/000000/docker.png">
 <img alt="Linux" width="26px" align="left" src="https://img.icons8.com/color/96/000000/linux.png">
 
-</br>
-
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahH99&theme=dark&hide_border=true&border_radius=10&bg_color=121212&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=121212)
