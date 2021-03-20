@@ -7,7 +7,7 @@
 <img alt="Java" width="26px" align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 <img alt="Kotlin" width="26px" align="left" src="https://img.icons8.com/color/48/000000/kotlin.png">
 <img alt="Python" width="26px" align="left" src="https://img.icons8.com/color/48/000000/python.png">
-<img alt="JavaScript" width="26px" align="left" src="https://img.icons8.com/color/48/000000/javascript.png">
+<img alt="JavaScript" width="26px" align="left" src="https://img.icons8.com/color/48/000000/javascript.png" />
 
 <img alt="IntelliJ" width="26px" align="left" src="https://img.icons8.com/color/240/000000/intellij-idea.png">
 <img alt="Git" width="26px" align="left" src="https://img.icons8.com/color/48/000000/git.png">
