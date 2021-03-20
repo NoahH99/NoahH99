@@ -8,7 +8,7 @@
 <img alt="Kotlin" width="26px" align="left" src="https://img.icons8.com/color/48/000000/kotlin.png">
 <img alt="Python" width="26px" align="left" src="https://img.icons8.com/color/48/000000/python.png">
 <img alt="JavaScript" width="26px" align="left" src="https://img.icons8.com/color/48/000000/javascript.png">
-<br />
+
 <img alt="IntelliJ" width="26px" align="left" src="https://img.icons8.com/color/240/000000/intellij-idea.png">
 <img alt="Git" width="26px" align="left" src="https://img.icons8.com/color/48/000000/git.png">
 <img alt="Stack Overflow" width="26px" align="left" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
