@@ -12,6 +12,7 @@
 <img alt="Git" width="26px" align="left" src="https://img.icons8.com/color/48/000000/git.png">
 <img alt="Stack Overflow" width="26px" align="left" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
 <img alt="Docker" width="26px" alilgn="left" src="https://img.icons8.com/color/96/000000/docker.png">
+<img alt="Linux" width="26px" align="left" src="https://img.icons8.com/color/96/000000/linux.png">
 
 <br />
 
