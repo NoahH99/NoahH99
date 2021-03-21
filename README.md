@@ -2,7 +2,7 @@
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vazpfpqk3r1i3i2p6cz2q1dc&cover_image=false&theme=default)
 
-### Languages and Tools:
+### Languages and Tools
 
 <img alt="Java" width="26px" align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 <img alt="Kotlin" width="26px" align="left" src="https://img.icons8.com/color/48/000000/kotlin.png">
